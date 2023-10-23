@@ -2,7 +2,7 @@ import CounterButton from '../components/CounterButton';
 
 const ButtonPage = () => {
   return (
-    <div>
+    <div className="bg-white">
       <CounterButton />
     </div>
   );
